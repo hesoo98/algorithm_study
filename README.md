@@ -15,8 +15,8 @@
       <td height="140px" align="center"> <a href="https://github.com/tenta3802"><img src="https://avatars.githubusercontent.com/u/84509774?v=4" width="140px" /><br/>김영돈 (Java)</a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://solved.ac/anaooauc1236"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hesoo98" /></a><br/><a href="https://www.acmicpc.net/user/hesoo98">Baekjoon</a><br/><a href="https://solved.ac/profile/hesoo98">solved.ac</a></td>
-      <td align="center"><a href="https://solved.ac/blackberry97"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tenta3802" /></a><br/><a href="https://www.acmicpc.net/user/tenta3802">Baekjoon</a><br/><a href="https://solved.ac/profile/blackberry97">solved.ac</a></td>
+      <td align="center"><a href="https://solved.ac/hesoo98"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hesoo98" /></a><br/><a href="https://www.acmicpc.net/user/hesoo98">Baekjoon</a><br/><a href="https://solved.ac/profile/hesoo98">solved.ac</a></td>
+      <td align="center"><a href="https://solved.ac/tenta3802"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tenta3802" /></a><br/><a href="https://www.acmicpc.net/user/tenta3802">Baekjoon</a><br/><a href="https://solved.ac/profile/tenta3802">solved.ac</a></td>
   </tr>
   
 </table>
