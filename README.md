@@ -1,5 +1,7 @@
 # algorithm-study
+
 <br/>
+
 ## 스터디 진행 방식
 
 <br/><br/>
