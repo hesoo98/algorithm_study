@@ -17,13 +17,23 @@
 값을 넣을시 Integer의 범위를 넘기 때문이다.(런타임 에러 (InputMismatch) 발생)</br>
 </br>
 
+<details>
+<summary>코드</summary>
+
 ```java
 HashMap<Long, Integer> map = new HashMap<Long, Integer>();
 ```
-</br></br>
+
+</details>
+
+</br>
 HashMap 생성을 하고 나면 key값과 value값을 넣는데 입력받은 카드 번호가 이미 있을 경우</br>
 즉, map 안에 같은 key값이 존재할 경우 value 값을 1씩 증가시켰다. </br>
 </br>
+
+<details>
+<summary>코드</summary>
+
 ```java
 for(int i=0; i<t; i++) {
 		int val = 1;
@@ -35,11 +45,18 @@ for(int i=0; i<t; i++) {
 		map.put(num, val);
 }
 ```
-</br></br>
+
+</details>
+
+</br>
 그 후 map의 value 값을 조회하면서 가장 큰 값을 구하는데</br>
 value 값이 같은 경우(가장 많이 가지고 있는 정수가 여러 가지라면) 가장 작은 것을 출력을 하기 위해</br>
 조건문을 통해 key값 비교 후 작은 값으로 대입했다. </br>
 </br>
+
+<details>
+<summary>코드</summary>
+
 ```java
 long maxKey = 0;
 		long maxValue = 0;
@@ -53,8 +70,14 @@ long maxKey = 0;
 		}
 }
 ```
-</br></br>
-#### 최종 답안 </br>
+
+</details>
+
+</br>
+
+<details>
+<summary>전체 코드</summary>
+
 ```java
 public class Main {
 	public static void main(String args[]) throws NumberFormatException, IOException {
@@ -88,3 +111,4 @@ public class Main {
 	}
 }
 ```
+</details>
