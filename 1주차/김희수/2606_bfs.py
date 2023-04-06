@@ -25,4 +25,3 @@ while queue:
             resultcount += 1
 
 print(resultcount)
-# print(visited)
