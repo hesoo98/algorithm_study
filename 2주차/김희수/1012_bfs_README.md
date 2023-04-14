@@ -1,4 +1,4 @@
-### [silver 2] 1012: 바이러스
+### [silver 2] 1012: 유기농 배추
 https://www.acmicpc.net/problem/1012
 #### 입력 
 입력의 첫 줄에는 테스트 케이스의 개수 T가 주어진다. <br>
