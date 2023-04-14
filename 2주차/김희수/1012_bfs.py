@@ -1,5 +1,5 @@
 from collections import deque
-
+#유기농배추 bfs
 
 def bfs(x, y):
     queue = deque()
